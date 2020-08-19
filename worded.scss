@@ -1,0 +1,10 @@
+$theme-colors: (
+  primary: #607D9B,
+  secondary: #848482,
+  success: #75816b,
+  info: #6699cc,
+  danger: #996666
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+// @import "./bmd/scss/bootstrap-material-design";
